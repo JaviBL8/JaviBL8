@@ -2,7 +2,6 @@
 
 ## I'm Developer
 - 🔭 I’m currently working on a lot of projects!
-- 🌱 I’m currently learning Go
 - 🥅 2020 Goals: Improve my coding skills
 
 ### Connect with me:
