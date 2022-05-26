@@ -2,7 +2,7 @@
 
 ## I'm Developer
 - 🔭 I’m currently working on a lot of projects!
-- 🥅 2021 Goals: Improve my coding skills
+- 🥅 2022 Goals: Improve my coding skills
 
 ### Connect with me:
 
