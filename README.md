@@ -1,8 +1,8 @@
 ### Hi there, I'm Javi - aka [JaviBL8][website] 👋
 
-## I'm Developer
+## I'm Full Stack Developer
 - 🔭 I’m currently working on a lot of projects!
-- 🥅 2022 Goals: Improve my coding skills
+- 🥅 2023 Goals: Improve my coding skills
 
 ### Connect with me:
 
