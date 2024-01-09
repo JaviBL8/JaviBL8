@@ -2,7 +2,7 @@
 
 ## I'm Full Stack Developer
 - 🔭 I’m currently working on a lot of projects!
-- 🥅 2023 Goals: Improve my coding skills
+- 🥅 2024 Goals: Improve my coding skills
 
 ### Connect with me:
 
